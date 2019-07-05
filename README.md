@@ -1,7 +1,7 @@
 # final-project
 
-"Penjelasan Aplikasi Yang Dibuat"
-Enkripsi password melindungi kata sandi kita. dalam internet banyak program yang mampu memcuri kata sandi yang dikatakan aman. kita mengembangkan algoritma untuk mengenkripsi password.
+"Penjelasan program Yang Dibuat"
+Enkripsi password melindungi kata sandi kita. dalam internet banyak program yang mampu memcuri kata sandi yang dikatakan aman. kita mampu untuk mengembangkan program enkripsi password.
 
 "Anggota Kelompok"
 1. Ansyuri Fadila (17.83.0016)
